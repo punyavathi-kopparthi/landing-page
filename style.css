@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    font-family:Arial;
+}
+
+.hero{
+    background:linear-gradient(to right,#4a00e0,#8e2de2);
+    color:white;
+    text-align:center;
+    padding:100px 20px;
+}
+
+button{
+    padding:12px 25px;
+    border:none;
+    background:white;
+    color:#4a00e0;
+    font-size:18px;
+    border-radius:5px;
+}
+
+.features{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    padding:50px;
+}
+
+.box{
+    background:#f4f4f4;
+    padding:20px;
+    width:200px;
+    text-align:center;
+    border-radius:10px;
+}
